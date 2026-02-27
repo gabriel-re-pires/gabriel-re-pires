@@ -84,6 +84,7 @@
     height="200" 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boosa515&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+    <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boosa515&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 

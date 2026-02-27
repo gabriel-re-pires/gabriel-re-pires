@@ -1,6 +1,5 @@
 # Hi, I'm Gabriel R. Pires
 
-**`Fullstack Developer`**
 
 ## Formação Acadêmica
 
@@ -8,7 +7,6 @@
 
 ## Contacts:
 
-Você pode entrar em contato comigo através dos seguintes canais:
 <br/>
 
 [![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=Linkedin&color=blue)](https://www.linkedin.com/in/grp-0892ret/)

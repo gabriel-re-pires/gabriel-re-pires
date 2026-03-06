@@ -3,6 +3,7 @@
 
 ## Formação Acadêmica
 
+- **Técnico em Redes de Computadores** - Instituto Federal Goiano (IFGO)
 - **Engenharia de Computação** - Universidade Estadual de Minas Gerais (UEMG)
 
 ## Contacts:

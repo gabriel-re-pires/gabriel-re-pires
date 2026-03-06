@@ -66,6 +66,14 @@
     style="padding-right: 10px;" 
     src="https://juststickers.in/wp-content/uploads/2019/01/flutter-264x264.png" 
 />
+<img 
+    align="C++" 
+    alt="C++r"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" 
+/>
 
 <br/>
 <br/>

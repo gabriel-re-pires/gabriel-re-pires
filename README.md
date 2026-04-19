@@ -86,13 +86,13 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=boosa515&show_icons=true&theme=dark&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&theme=dark&locale=pt-br" 
   />
   <img 
     alt="GitHub Top Langs" 
     height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boosa515&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriel-re-pires&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boosa515&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 

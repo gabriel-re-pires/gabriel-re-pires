@@ -68,15 +68,22 @@
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flutter/flutter-original.svg" 
 />
 <img 
-    align="C++" 
+    align="left" 
     alt="C++r"
     title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" 
 />
+<img 
+    align="left" 
+    alt="nextjs"
+    title="nextjs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-plain.svg"
+/>
 
-<br/>
 <br/>
 <br/>
 

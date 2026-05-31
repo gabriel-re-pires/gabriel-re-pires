@@ -58,12 +58,12 @@ Estudante de Engenharia de Computação na Universidade Estadual de Minas Gerais
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=20232A&title_color=61DAFB&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&bg_color=20232A&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&hide_border=true&background=20232A&stroke=20232A&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=C9D1D9&sideNums=4ADE80&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
+<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=C9D1D9&sideNums=4ADE80&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
 
 <br/>
 <br/>

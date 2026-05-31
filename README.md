@@ -2,8 +2,6 @@
 
 # Gabriel R. Pires
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Desenvolvedor+Web+e+Mobile;Engenharia+de+Computa%C3%A7%C3%A3o+%E2%80%94+UEMG;React+%7C+TypeScript+%7C+Flutter;C%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
-
 <br/>
 <br/>
 

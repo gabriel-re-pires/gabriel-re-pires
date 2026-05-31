@@ -1,89 +1,49 @@
-# Hi, I'm Gabriel R. Pires
+# Gabriel R. Pires
 
+**Estudante de Engenharia de Computação | Desenvolvedor de Software**
+
+Estudante de Engenharia de Computação com formação técnica em Redes de Computadores, atuando no desenvolvimento de aplicações web e mobile. Tenho interesse em construir soluções funcionais e eficientes, com foco em boas práticas de código e aprendizado contínuo de novas tecnologias.
+
+---
 
 ## Formação Acadêmica
 
-- **Técnico em Redes de Computadores** - Instituto Federal Goiano (IFGO)
-- **Engenharia de Computação** - Universidade Estadual de Minas Gerais (UEMG)
+- **Engenharia de Computação** — Universidade Estadual de Minas Gerais (UEMG)
+- **Técnico em Redes de Computadores** — Instituto Federal Goiano (IFGO)
 
-## Contacts:
+---
 
-<br/>
+## Tech Stack
 
-[![linkedin](https://img.shields.io/badge/Linkedin-teste?style=for-the-badge&logo=Linkedin&color=blue)](https://www.linkedin.com/in/grp-0892ret/)
-[![whatsapp](https://img.shields.io/badge/whatsapp-teste?style=for-the-badge&logo=whatsapp&color=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
-[![Instagram](https://img.shields.io/badge/Instagram-teste?style=for-the-badge&logo=Instagram&color=purple)](https://www.instagram.com/ga_rpires/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&color=white)](mailto:rezendepiresgabriel@gmail.com)
+**Linguagens**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## Languages ​​and Technologies
+**Frameworks e Bibliotecas**
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flutter"
-    title="Flutter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flutter/flutter-original.svg" 
-/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<br/>
-<br/>
+---
 
-## Statistics
+## Contato
 
-<div>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&theme=dark&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriel-re-pires&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grp-0892ret/)
+[![Gmail](https://img.shields.io/badge/Email-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezendepiresgabriel@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&theme=dark&locale=pt-br" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriel-re-pires&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&radius=16&theme=gruvbox&area=true&order=5&hide_border=true" />
+
 </div>
-

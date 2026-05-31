@@ -63,10 +63,3 @@
 <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&theme=react-dark&hide_border=true&area=true&radius=16" alt="Gráfico de atividade" />
 
 </div>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-re-pires/gabriel-re-pires/refs/heads/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-re-pires/gabriel-re-pires/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gabriel-re-pires/gabriel-re-pires/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>

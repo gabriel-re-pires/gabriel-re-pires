@@ -17,7 +17,6 @@
 
 Estudante de Engenharia de Computação na Universidade Estadual de Minas Gerais (UEMG), com formação técnica em Redes de Computadores pelo Instituto Federal Goiano (IFGO). Atuo no desenvolvimento de aplicações web e mobile, com interesse em construir soluções funcionais, bem estruturadas e seguindo boas práticas de código. Em constante aprendizado de novas tecnologias e arquiteturas.
 
----
 
 ## Formação Acadêmica
 

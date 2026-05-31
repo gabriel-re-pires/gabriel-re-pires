@@ -2,9 +2,7 @@
 
 # Gabriel R. Pires
 
-<a href="https://github.com/gabriel-re-pires">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Web+%26+Mobile;React+%7C+TypeScript+%7C+Flutter;Background+em+Redes+de+Computadores" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Desenvolvedor+Web+e+Mobile;Engenharia+de+Computa%C3%A7%C3%A3o+%E2%80%94+UEMG;React+%7C+TypeScript+%7C+Flutter;C%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -19,11 +17,7 @@
 
 ## Sobre mim
 
-- Estudante de **Engenharia de Computação** na Universidade Estadual de Minas Gerais (UEMG)
-- Formação técnica em **Redes de Computadores** pelo Instituto Federal Goiano (IFGO)
-- Atuação em **desenvolvimento web e mobile**, com foco em React, TypeScript e Flutter
-- Interesse em construir aplicações funcionais, bem estruturadas e com boas práticas de código
-- Em constante aprendizado de novas tecnologias e arquiteturas
+Estudante de Engenharia de Computação na Universidade Estadual de Minas Gerais (UEMG), com formação técnica em Redes de Computadores pelo Instituto Federal Goiano (IFGO). Atuo no desenvolvimento de aplicações web e mobile, com interesse em construir soluções funcionais, bem estruturadas e seguindo boas práticas de código. Em constante aprendizado de novas tecnologias e arquiteturas.
 
 ---
 
@@ -34,7 +28,7 @@
 
 ---
 
-## Tecnologias
+## Tech Stack
 
 <div align="center">
 
@@ -64,30 +58,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=20232A&title_color=61DAFB&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&bg_color=20232A&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&theme=dracula&hide_border=true&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
+<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&hide_border=true&background=20232A&stroke=20232A&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=C9D1D9&sideNums=4ADE80&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
 
 <br/>
 <br/>
 
 <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&theme=react-dark&hide_border=true&area=true&radius=16" alt="Gráfico de atividade" />
-
-</div>
-
----
-
-<div align="center">
-
-## Vamos Conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grp-0892ret/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezendepiresgabriel@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534993417077?text=Ol%C3%A1!%20Tudo%20Bem%20Gabriel!)
-
-<sub>Feito por Gabriel R. Pires</sub>
 
 </div>

@@ -58,8 +58,16 @@ Estudante de Engenharia de Computação na Universidade Estadual de Minas Gerais
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="center" valign="top">
+<img width="420" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
+</td>
+<td align="center" valign="top">
+<img width="420" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+</td>
+</tr>
+</table>
 
 <br/>
 

@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left alignment">
 
 **Linguagens**
 

@@ -54,12 +54,12 @@
 <br/>
 <br/>
 
-<img width="420" height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF6600&text_color=C9D1D9&icon_color=4ADE80&locale=pt-br" alt="Estatísticas do GitHub" />
+<img width="420" height="170" src="https://github-readme-stats-fast.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF6600&text_color=C9D1D9&icon_color=61DAFB&locale=pt-br" alt="Estatísticas do GitHub" />
 <img width="420" height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=FF6600&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br/>
 <br/>
 
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&bg_color=00000000&color=FF6600&line=FF6600&point=FF6600&area=true&area_color=FF6600&hide_border=true&radius=16" alt="Gráfico de atividade" />
+<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&bg_color=00000000&color=61DAFB&line=FF6600&point=FF6600&area=true&area_color=FF6600&hide_border=true&radius=16" alt="Gráfico de atividade" />
 
 </div>

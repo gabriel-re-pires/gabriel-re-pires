@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=FF6600&fire=FF6600&currStreakNum=FF6600&currStreakLabel=C9D1D9&sideNums=4ADE80&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
+<img width="850" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=FF6600&fire=FF6600&currStreakNum=FF6600&currStreakLabel=C9D1D9&sideNums=61DAFB&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
 
 <br/>
 <br/>

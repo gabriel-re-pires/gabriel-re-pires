@@ -60,6 +60,6 @@
 <br/>
 <br/>
 
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&theme=react-dark&hide_border=true&area=true&radius=16" alt="Gráfico de atividade" />
+<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&bg_color=00000000&color=FF6600&line=FF6600&point=FF6600&area=true&area_color=FF6600&hide_border=true&radius=16" alt="Gráfico de atividade" />
 
 </div>

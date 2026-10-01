@@ -13,7 +13,6 @@
 <br/>
 
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=gabriel-re-pires&label=Visitas&color=026CE6&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/gabriel-re-pires?label=Seguidores&style=flat-square&color=026CE6&labelColor=0D1117)
 
 </div>
 
@@ -84,19 +83,19 @@ ignorar.
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=026CE6&text_color=C9D1D9&icon_color=026CE6&locale=pt-br" alt="Estatísticas do GitHub" />
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-re-pires&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=026CE6&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+![Contribuições totais](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&style=for-the-badge&color=026CE6&labelColor=0D1117&label=Contribui%C3%A7%C3%B5es&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dgabriel-re-pires%26type%3Djson)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgabriel-re-pires&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=026CE6&labelColor=0D1117&label=Reposit%C3%B3rios)
+![Seguidores](https://img.shields.io/github/followers/gabriel-re-pires?style=for-the-badge&logo=github&logoColor=white&color=026CE6&labelColor=0D1117&label=Seguidores)
 
 <br/>
 <br/>
 
-<img width="850" src="https://streak-stats.demolab.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=026CE6&fire=026CE6&currStreakNum=026CE6&currStreakLabel=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=gabriel-re-pires&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=C9D1D9&icon_color=026CE6&locale=pt-br" alt="Resumo da atividade" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-re-pires&layout=donut&langs_count=8&hide_border=true&bg_color=00000000&title_color=026CE6&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br/>
 <br/>
 
-<img width="850" src="https://github-profile-trophy.vercel.app/?username=gabriel-re-pires&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
+<img width="820" src="https://streak-stats.demolab.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=026CE6&fire=026CE6&currStreakNum=026CE6&currStreakLabel=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=820" alt="Sequência de contribuições" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:026CE6,100:012A4A&height=120&section=footer" alt="" />

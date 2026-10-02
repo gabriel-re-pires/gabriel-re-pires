@@ -53,21 +53,6 @@ software e hardware.
 
 <br/>
 
-## Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/gabriel-re-pires/NOME-DO-REPO">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-re-pires&repo=NOME-DO-REPO&hide_border=true&bg_color=00000000&title_color=026CE6&text_color=C9D1D9&icon_color=026CE6" alt="Projeto 1" />
-</a>
-<a href="https://github.com/gabriel-re-pires/OUTRO-REPO">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-re-pires&repo=OUTRO-REPO&hide_border=true&bg_color=00000000&title_color=026CE6&text_color=C9D1D9&icon_color=026CE6" alt="Projeto 2" />
-</a>
-
-</div>
-
-<br/>
-
 ## Estatísticas
 
 <div align="center">
@@ -79,10 +64,5 @@ software e hardware.
 <br/>
 
 <img width="850" src="https://streak-stats.demolab.com?user=gabriel-re-pires&hide_border=true&background=00000000&stroke=00000000&ring=026CE6&fire=026CE6&currStreakNum=026CE6&currStreakLabel=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR&card_width=850" alt="Sequência de contribuições" />
-
-<br/>
-<br/>
-
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-re-pires&bg_color=00000000&color=C9D1D9&line=026CE6&point=026CE6&area=true&area_color=026CE6&title_color=026CE6&hide_border=true&radius=16" alt="Gráfico de atividade" />
 
 </div>
